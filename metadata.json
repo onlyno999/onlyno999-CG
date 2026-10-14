@@ -1,0 +1,6 @@
+{
+  "name": "AI跟唱",
+  "description": "AI歌声转换与跟唱工坊，支持伴奏人声分离、Seed-VC零样本歌声克隆、音高保留与双轨实时跟唱播放排查。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
